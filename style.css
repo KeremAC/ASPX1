@@ -1,0 +1,30 @@
+﻿body {
+
+
+
+}
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+
+}
+
+#ortada_gri{
+
+    margin:0 auto ;
+    width: 90%;
+    height:1080px;
+    background-color:rgba(230, 230, 230, 0.80)
+
+}
+
+#ust_siyah {
+    margin: auto;
+    width: 75%;
+    height: 100px;
+    background-color: rgba(46, 46, 46, 0.77);
+}
+
+    
